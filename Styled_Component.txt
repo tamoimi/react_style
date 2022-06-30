@@ -1,0 +1,19 @@
+<styled-component>
+
+cd styled-component
+
+npm i --save styled-components
+
+npm start
+
+
+<Emotion>
+https://emotion.sh/docs/introduction
+
+npm i @emotion/styled @emotion/react <스타일 컴포넌트에서도 쓸수 있고 리액트에서도 쓸수 있음>
+
+
+/** @jsxImportSource @emotion/react */ 
+>이모션은 jsx를 지원안해서 이 주소 복사해서 임폴트 위에 붙여넣기
+
+*&:hover > 나 자신을 호버했을때 ~ (&)
